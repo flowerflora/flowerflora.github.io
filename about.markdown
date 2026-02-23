@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+Welcome to my online portfolio/website! My name is Andrew Carnegie and I am a sophomore at Carnegie Mellon University studying Steel Production, while finalizing a Scottish History and Bagpipes minor. I’m interested in steel and software engineering. This website is a collection of my latest projects, classes, and steel experiences.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Feel free to explore my page and learn more about me!
+<!-- 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
@@ -15,4 +17,4 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-organization]: https://github.com/jekyll -->

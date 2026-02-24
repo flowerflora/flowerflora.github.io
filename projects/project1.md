@@ -2,6 +2,7 @@
 layout: page
 title: Steel Production Pipeline
 permalink: /projects/Steel-Production-Pipeline
+nav_exclude: true
 ---
 
 Project Type: Semester Project

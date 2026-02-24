@@ -54,4 +54,4 @@ plugins:
 #   - vendor/ruby/
 header_pages:
  - projects.md
- - blog.md
+ - _posts/2026-02-23-welcome-to-jekyll.markdown

@@ -3,6 +3,7 @@ layout: post
 title:  Sample blog
 # date:   2026-02-23 12:10:55 -0500
 categories: blog
+permalink: /blog/How-I-built-a-steel-empire
 ---
 
 # How I built a steel empire

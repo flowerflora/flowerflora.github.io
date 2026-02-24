@@ -22,7 +22,7 @@ title: Andrew Carnegie
 email: AndrewCarnegie@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Andrew Carnegie, a sophomore at Carnegie Mellon University studying Steel Production with a Scottish History and Bagpipes minor.
-baseurl: /about # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 domain: flowerflora.GitHub.io       
 url: https://flowerflora.GitHub.io  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AndrewCarnegie

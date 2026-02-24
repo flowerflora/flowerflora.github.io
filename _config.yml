@@ -54,3 +54,4 @@ plugins:
 #   - vendor/ruby/
 header_pages:
  - projects.md
+ - blog.md

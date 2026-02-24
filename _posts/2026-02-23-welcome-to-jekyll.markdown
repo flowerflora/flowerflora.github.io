@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-02-23 12:10:55 -0500
-categories: jekyll update
+title:  Sample blog
+# date:   2026-02-23 12:10:55 -0500
+categories: blog
 ---
+
+# How I built a steel empire
+
+I love steel, as we all know. What started as a small idea has now grown beyond my expectations! Today I'll walk you through how this happened...
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

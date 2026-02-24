@@ -29,7 +29,7 @@ twitter_username: AndrewCarnegie
 github_username:  AndrewCarnegie
 
 # Build settings
-theme: theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 

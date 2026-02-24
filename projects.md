@@ -5,11 +5,11 @@ permalink: /projects/
 ---
 Welcome to my collection of projects. Here you’ll find a selection of my work and projects that I've developed at CMU!
 
-![Alternate Text](stell.jpg)
+![Alternate Text](stell.jpg){: style="height:200px"}
 
 [Steel Production Pipeline](/projects/Steel-Production-Pipeline)
 
-![Alternate Text](entrepreneur.jpeg)
+![Alternate Text](entrepreneur.jpeg){: style="height:200px"}
 
 [Entrepreneur Final Presentation](/projects/Steel-Production-Pipeline)
 
